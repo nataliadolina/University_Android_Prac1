@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prac1</string>
+    <string name="greetings">Hello from XML</string>
+    <string name="button">Update The TextView</string>
+    <string name="delete_button">Delete selected</string>
+    <string name="hint">A name</string>
+</resources>
